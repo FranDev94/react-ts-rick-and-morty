@@ -1,4 +1,3 @@
-import { Container } from "react-bootstrap"
 import CharacterList from "./components/CharacterList"
 
 function App() {
